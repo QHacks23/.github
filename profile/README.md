@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+We have built a blockchain-based forest preservation crowdsourcing platform for fractionalized land ownership.
+This platform was built with React for the frontend and a Ktor backend written in Kotlin. Additionally, we used a Postgres database and Firebase for user authentication.
+For the blochain aspect, we leveraged Hedera to build a distributed public ledger as well as the Pinata API for implementing distributed data
+storage (IPFS) for listing images and metadata.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out more here: https://devpost.com/software/nftree-tnq3zo
